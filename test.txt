@@ -1,2 +1,3 @@
 hello test file
-ikinci satiri yazdim
+ikinci satiri yazdım
+ucuncu satiri da yazdim
